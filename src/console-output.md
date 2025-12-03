@@ -25,12 +25,20 @@ thousands of items), as that may slow Anki down, even if the console is not show
 
 ### Windows
 
-If you start Anki via the `anki-console.exe` file in `C:\Users\user\AppData\Local\Programs\Anki` (or `C:\Program Files\Anki`), a
+If you start Anki via the `anki-console.exe` file (or `anki-console.bat` file for Anki versions before 25.07) in `C:\Users\user\AppData\Local\Programs\Anki` (or `C:\Program Files\Anki`), a
 separate console window will appear.
 
 ### macOS
 
 Open Terminal.app, then enter the following text and hit enter:
+
+_For Anki 25.07 and later, paste_
+
+```
+/Applications/Anki.app/Contents/MacOS/launcher
+```
+
+_For Anki versions before 25.07, paste_
 
 ```
 /Applications/Anki.app/Contents/MacOS/anki

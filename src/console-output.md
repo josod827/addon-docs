@@ -32,13 +32,13 @@ separate console window will appear.
 
 Open Terminal.app, then enter the following text and hit enter:
 
-_For Anki 25.07 and later, enter_
+For Anki 25.07 and later, enter
 
 ```
 /Applications/Anki.app/Contents/MacOS/launcher
 ```
 
-_For Anki versions before 25.07, enter_
+For Anki versions before 25.07, enter
 
 ```
 /Applications/Anki.app/Contents/MacOS/anki
